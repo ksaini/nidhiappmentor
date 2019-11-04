@@ -1,4 +1,4 @@
-var base_url = "http://greyboxerp.in/nidhi/";
+var base_url = "https://greyboxerp.in/nidhi/";
 
  var pictureSource;   // picture source
     var destinationType; // sets the format of returned value 
